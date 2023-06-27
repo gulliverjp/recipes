@@ -134,7 +134,7 @@ function AccordionWrapper() {
             </p>
           </Row>
           <Row>
-            <Col xs={12}>{ciabattaTable}</Col>
+            <Col xs={12}>{ciabattaTable()}</Col>
           </Row>
         </Accordion.Body>
       </Accordion.Item>
