@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/recipes/static/css/main.6cc34dfe.css",
-    "main.js": "/recipes/static/js/main.41b1ca16.js",
+    "main.js": "/recipes/static/js/main.31df058b.js",
     "static/js/787.3e22468a.chunk.js": "/recipes/static/js/787.3e22468a.chunk.js",
     "static/media/pizza3.jpg": "/recipes/static/media/pizza3.52a2aef5a4c1be031739.jpg",
     "static/media/pizza2.jpg": "/recipes/static/media/pizza2.1c6abcdd4010c684a48d.jpg",
@@ -11,16 +11,13 @@
     "static/media/unfrosted_cr.JPEG": "/recipes/static/media/unfrosted_cr.db81af5a9a3e4e7225a5.JPEG",
     "static/media/frosted_cr.JPEG": "/recipes/static/media/frosted_cr.77b487cdd2b8b9734ed7.JPEG",
     "static/media/frosted_cr_td.JPEG": "/recipes/static/media/frosted_cr_td.5e78c455ff6f7fa6fe59.JPEG",
-    "static/media/pizzass.jpg": "/recipes/static/media/pizzass.f991dd98e6f3e5550e57.jpg",
-    "static/media/cinnamonroll.jpg": "/recipes/static/media/cinnamonroll.9e1d9db6d6676c2895de.jpg",
-    "static/media/ciabattass.jpg": "/recipes/static/media/ciabattass.9dec5a69886df3772280.jpg",
     "index.html": "/recipes/index.html",
     "main.6cc34dfe.css.map": "/recipes/static/css/main.6cc34dfe.css.map",
-    "main.41b1ca16.js.map": "/recipes/static/js/main.41b1ca16.js.map",
+    "main.31df058b.js.map": "/recipes/static/js/main.31df058b.js.map",
     "787.3e22468a.chunk.js.map": "/recipes/static/js/787.3e22468a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cc34dfe.css",
-    "static/js/main.41b1ca16.js"
+    "static/js/main.31df058b.js"
   ]
 }
