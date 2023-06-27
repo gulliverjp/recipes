@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/recipes/static/css/main.6cc34dfe.css",
-    "main.js": "/recipes/static/js/main.7d5835c7.js",
+    "main.js": "/recipes/static/js/main.e253e0cf.js",
     "static/js/787.3e22468a.chunk.js": "/recipes/static/js/787.3e22468a.chunk.js",
     "static/media/pizza3.jpg": "/recipes/static/media/pizza3.52a2aef5a4c1be031739.jpg",
     "static/media/pizza2.jpg": "/recipes/static/media/pizza2.1c6abcdd4010c684a48d.jpg",
@@ -13,11 +13,11 @@
     "static/media/frosted_cr_td.JPEG": "/recipes/static/media/frosted_cr_td.5e78c455ff6f7fa6fe59.JPEG",
     "index.html": "/recipes/index.html",
     "main.6cc34dfe.css.map": "/recipes/static/css/main.6cc34dfe.css.map",
-    "main.7d5835c7.js.map": "/recipes/static/js/main.7d5835c7.js.map",
+    "main.e253e0cf.js.map": "/recipes/static/js/main.e253e0cf.js.map",
     "787.3e22468a.chunk.js.map": "/recipes/static/js/787.3e22468a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cc34dfe.css",
-    "static/js/main.7d5835c7.js"
+    "static/js/main.e253e0cf.js"
   ]
 }
