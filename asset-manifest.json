@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/recipes/static/css/main.073c9b0a.css",
-    "main.js": "/recipes/static/js/main.40cedad5.js",
+    "main.css": "/recipes/static/css/main.6cc34dfe.css",
+    "main.js": "/recipes/static/js/main.c3d5f9f1.js",
     "static/js/787.3e22468a.chunk.js": "/recipes/static/js/787.3e22468a.chunk.js",
-    "static/media/logo.svg": "/recipes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/pizza3.jpg": "/recipes/static/media/pizza3.52a2aef5a4c1be031739.jpg",
+    "static/media/pizza2.jpg": "/recipes/static/media/pizza2.1c6abcdd4010c684a48d.jpg",
+    "static/media/pizza1.jpg": "/recipes/static/media/pizza1.707c0c87512cc389b3d0.jpg",
+    "static/media/ciabatta.jpg": "/recipes/static/media/ciabatta.9ca9a04932d3a2cd6161.jpg",
+    "static/media/unfrosted_cr_td.JPEG": "/recipes/static/media/unfrosted_cr_td.ca0efbb7f0bf039520e3.JPEG",
+    "static/media/unfrosted_cr.JPEG": "/recipes/static/media/unfrosted_cr.db81af5a9a3e4e7225a5.JPEG",
+    "static/media/frosted_cr.JPEG": "/recipes/static/media/frosted_cr.77b487cdd2b8b9734ed7.JPEG",
+    "static/media/frosted_cr_td.JPEG": "/recipes/static/media/frosted_cr_td.5e78c455ff6f7fa6fe59.JPEG",
+    "static/media/pizzass.jpg": "/recipes/static/media/pizzass.f991dd98e6f3e5550e57.jpg",
+    "static/media/cinnamonroll.jpg": "/recipes/static/media/cinnamonroll.9e1d9db6d6676c2895de.jpg",
+    "static/media/ciabattass.jpg": "/recipes/static/media/ciabattass.9dec5a69886df3772280.jpg",
     "index.html": "/recipes/index.html",
-    "main.073c9b0a.css.map": "/recipes/static/css/main.073c9b0a.css.map",
-    "main.40cedad5.js.map": "/recipes/static/js/main.40cedad5.js.map",
+    "main.6cc34dfe.css.map": "/recipes/static/css/main.6cc34dfe.css.map",
+    "main.c3d5f9f1.js.map": "/recipes/static/js/main.c3d5f9f1.js.map",
     "787.3e22468a.chunk.js.map": "/recipes/static/js/787.3e22468a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.40cedad5.js"
+    "static/css/main.6cc34dfe.css",
+    "static/js/main.c3d5f9f1.js"
   ]
 }
