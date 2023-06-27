@@ -120,8 +120,8 @@ function AccordionWrapper() {
                 <thead>
                   <tr>
                     <th></th>
-                    <th>Serving Size</th>
-                    <th>Weight Used</th>
+                    <th>Serving Size (g)</th>
+                    <th>Weight Used (g)</th>
                     <th># Servings</th>
                     <th>Cal/Serving</th>
                     <th>Cal</th>
@@ -314,8 +314,8 @@ function AccordionWrapper() {
                 <thead>
                   <tr class="tableizer-firstrow">
                     <th>Lagerstrom Ciabatta (Whole Wheat)</th>
-                    <th>Serving Size</th>
-                    <th>Weight Used</th>
+                    <th>Serving Size (g)</th>
+                    <th>Weight Used (g)</th>
                     <th># Servings</th>
                     <th>Cal/Serving</th>
                     <th>Cal</th>
@@ -414,8 +414,8 @@ function AccordionWrapper() {
                 <thead>
                   <tr>
                     <th></th>
-                    <th>Serving Size</th>
-                    <th>Weight Used</th>
+                    <th>Serving Size (g)</th>
+                    <th>Weight Used (g)</th>
                     <th># Servings</th>
                     <th>Cal/Serving</th>
                     <th>Cal</th>
