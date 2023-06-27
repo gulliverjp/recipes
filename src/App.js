@@ -410,7 +410,7 @@ function AccordionWrapper() {
           </Row>
           <Row>
             <Col>
-              <Table>
+              <Table striped="columns" bordered class="table">
                 <thead>
                   <tr>
                     <th></th>
