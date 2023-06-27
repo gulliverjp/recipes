@@ -99,7 +99,7 @@ function AccordionWrapper() {
                 <h2 class="text-end">link</h2>
               </a>
             </Col>
-            <Col>
+            <Col xs="auto">
               <small class="text-muted">
                 Rich sheet pan pizza with thick chewy crust.
               </small>
@@ -113,7 +113,12 @@ function AccordionWrapper() {
           </Row>
           <Row>
             <Col>
-              <Image src={require("./images/pizzass.jpg")} alt="" rounded />
+              <Image
+                src={require("./images/pizzass.jpg")}
+                alt=""
+                rounded
+                xs="auto"
+              />
             </Col>
           </Row>
         </Accordion.Body>
@@ -134,7 +139,7 @@ function AccordionWrapper() {
                 <h2 class="text-end">link</h2>
               </a>
             </Col>
-            <Col>
+            <Col xs="auto">
               <small class="text-muted">
                 Hoppy and more delicious than it looks.
               </small>
@@ -148,7 +153,12 @@ function AccordionWrapper() {
           </Row>
           <Row>
             <Col>
-              <Image src={require("./images/ciabattass.jpg")} alt="" rounded />
+              <Image
+                src={require("./images/ciabattass.jpg")}
+                alt=""
+                rounded
+                xs="auto"
+              />
             </Col>
           </Row>
         </Accordion.Body>
@@ -169,7 +179,7 @@ function AccordionWrapper() {
                 <h2 class="text-end">link</h2>
               </a>
             </Col>
-            <Col>
+            <Col xs="auto">
               <small class="text-muted">Makes kitchen smell amazing.</small>
             </Col>
           </Row>
@@ -183,7 +193,7 @@ function AccordionWrapper() {
               8-10 uncovered.
             </p>
           </Row>
-          <Row>
+          <Row xs="auto">
             <Col>
               <Image
                 src={require("./images/cinnamonroll.jpg")}
